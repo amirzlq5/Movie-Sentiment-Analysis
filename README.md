@@ -15,4 +15,4 @@ We use GloVe embeddings to create our feature matrix. The embeddings file that c
 
 
 ## Analysis Techniques in Movie-Sentiment 
-We will use three different types of deep neural networks: Densely connected neural network (Basic Neural Network), Convolutional Neural Network (CNN) and Long Short Term Memory Network (LSTM), which is a variant of Recurrent Neural Networks. Furthermore, we will see how to evaluate deep learning model on a totally unseen data.
+We use three different types of deep neural networks: Densely connected neural network (Basic Neural Network), Convolutional Neural Network (CNN) and Long Short Term Memory Network (LSTM), which is a variant of Recurrent Neural Networks. Furthermore, we will see how to evaluate deep learning model on a totally unseen data.
