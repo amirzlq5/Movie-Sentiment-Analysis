@@ -12,3 +12,6 @@ If you download the dataset and extract the compressed file, you will see a CSV 
 
 ## The Embeddings File
 We use GloVe embeddings to create our feature matrix. The embeddings file that can be downloaded from this [ Kaggle link](https://www.kaggle.com/terenceliu4444/glove6b100dtxt).
+
+
+## :-1: Analysis Techniques in Movie-Sentiment :+1:
