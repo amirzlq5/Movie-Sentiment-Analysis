@@ -9,4 +9,6 @@ Movie reviews are an important way to gauge the performance of a movie.  While p
 The dataset that can be downloaded from this [ Kaggle link](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
 If you download the dataset and extract the compressed file, you will see a CSV file. The file contains 50,000 records and two columns: review and sentiment.
 
+
 ## the embeddings file
+We use GloVe embeddings to create our feature matrix. The embeddings file that can be downloaded from this [ Kaggle link](https://www.kaggle.com/terenceliu4444/glove6b100dtxt).
