@@ -6,5 +6,5 @@ Movie reviews are an important way to gauge the performance of a movie.  While p
 
 
 ## The Dataset
-The dataset that can be downloaded from this [ Kaggle link](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+The dataset that can be downloaded from this [ Kaggle link].(https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 If you download the dataset and extract the compressed file, you will see a CSV file. The file contains 50,000 records and two columns: review and sentiment.
